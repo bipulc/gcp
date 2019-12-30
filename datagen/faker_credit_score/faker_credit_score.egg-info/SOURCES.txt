@@ -1,0 +1,9 @@
+README.rst
+setup.py
+faker_credit_score/__init__.py
+faker_credit_score/__version__.py
+faker_credit_score.egg-info/PKG-INFO
+faker_credit_score.egg-info/SOURCES.txt
+faker_credit_score.egg-info/dependency_links.txt
+faker_credit_score.egg-info/requires.txt
+faker_credit_score.egg-info/top_level.txt
