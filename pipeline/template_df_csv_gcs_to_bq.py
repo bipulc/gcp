@@ -1,8 +1,6 @@
 import apache_beam as beam
 from apache_beam.options.pipeline_options import PipelineOptions
-from apache_beam.options.value_provider import StaticValueProvider
 import logging
-import argparse
 import re
 
 # Read from GCS and write to BQ Table
