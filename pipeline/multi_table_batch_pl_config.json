@@ -1,0 +1,6 @@
+{
+    "tablelist" : [
+      {"sourcefile" : "gs://bk-dataflow-experiment/data/cust_data.json", "targettable" : "da_belgium_dataset.cust_data", "schemauri" : "gs://bk-dataflow-experiment/schema/schema_cust_data.txt" },
+      {"sourcefile" : "gs://bk-dataflow-experiment/data/sales_data.json", "targettable" : "da_belgium_dataset.sales_data", "schemauri" : "gs://bk-dataflow-experiment/schema/schema_sales_data.txt" }
+    ]
+}
